@@ -1,0 +1,10 @@
+quantum-nft-minting-dapp/
+  ├─ contracts/
+  │    └─ QuantumNFT.sol
+  ├─ src/
+  │    └─ (frontend code)
+  ├─ public/
+  │    ├─ preview.png
+  │    └─ (assets)
+  ├─ README.md
+  └─ LICENSE
