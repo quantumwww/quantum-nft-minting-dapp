@@ -3,6 +3,7 @@
 A fully-functional Web3 application for minting NFTs. Built with Solidity, React, and Web3.js. Integrated with Phantom & Metamask.
 
 ![Quantum NFT Minting Preview](./public/preview.png)
+![image](https://github.com/user-attachments/assets/a1dc3b77-f8f4-46fb-8772-3618598e3eca)
 
 ## 🔧 Features
 
