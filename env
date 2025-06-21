@@ -1,6 +1,0 @@
-# .env.example
-
-NEXT_PUBLIC_CONTRACT_ADDRESS=0xYourContractAddressHere
-NEXT_PUBLIC_NETWORK=polygon
-PINATA_API_KEY=your_pinata_api_key
-PINATA_API_SECRET=your_pinata_api_secret
