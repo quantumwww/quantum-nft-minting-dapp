@@ -4,6 +4,7 @@ A fully-functional Web3 application for minting NFTs. Built with Solidity, React
 
 ![Quantum NFT Minting Preview](./public/preview.png)
 
+https://t.me/c/2080075839/584
 
 ## 🔧 Features
 
